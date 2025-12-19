@@ -8,12 +8,12 @@ This repository contains comprehensive study materials for Statistical Thinking 
 3. [Model Performance and Diagnostics](#model-performance-and-diagnostics)
 
 ## Basic Probability Concepts
-- [Probability and Independence](probability/01_probability_and_independence.md)
-- [Conditional Probability and Bayes' Theorem](probability/02_conditional_probability_bayes.md)
-- [Independent vs Dependent Events](probability/03_independent_dependent_events.md)
-- [Probability Distributions](probability/04_probability_distributions.md)
-- [Probability Density Functions](probability/05_pdf.md)
-- [Probability Rules](probability/06_probability_rules.md)
+- [Probability and Independence](01-Basic-Probability-Concepts/01_probability_and_independence.md)
+- [Conditional Probability and Bayes' Theorem](01-Basic-Probability-Concepts/02_conditional_probability_bayes.md)
+- [Independent vs Dependent Events](01-Basic-Probability-Concepts/03_independent_dependent_events.md)
+- [Probability Distributions](01-Basic-Probability-Concepts/04_probability_distributions.md)
+- [Probability Density Functions](01-Basic-Probability-Concepts/05_pdf.md)
+- [Probability Rules](01-Basic-Probability-Concepts/06_probability_rules.md)
 
 ## Statistical Inference
 - [Statistical Parameters](inference/01_statistical_parameters.md)
