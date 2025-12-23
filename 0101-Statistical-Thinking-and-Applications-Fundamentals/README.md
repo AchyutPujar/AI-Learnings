@@ -16,12 +16,12 @@ This repository contains comprehensive study materials for Statistical Thinking 
 - [Probability Rules](01-Basic-Probability-Concepts/06_probability_rules.md)
 
 ## Statistical Inference
-- [Statistical Parameters](inference/01_statistical_parameters.md)
-- [Covariance and Correlation](inference/02_covariance_correlation.md)
-- [Statistical Sampling](inference/03_statistical_sampling.md)
-- [Central Limit Theorem](inference/04_central_limit_theorem.md)
-- [Hypothesis Testing](inference/05_hypothesis_testing.md)
-- [Type I and Type II Errors](inference/06_type_errors.md)
+- [Statistical Parameters](02-Statistical-Inference/01_statistical_parameters.md)
+- [Covariance and Correlation](02-Statistical-Inference/02_covariance_correlation.md)
+- [Statistical Sampling](02-Statistical-Inference/03_statistical_sampling.md)
+- [Central Limit Theorem](02-Statistical-Inference/04_central_limit_theorem.md)
+- [Hypothesis Testing](02-Statistical-Inference/05_hypothesis_testing.md)
+- [Type I and Type II Errors](02-Statistical-Inference/06_type_errors.md)
 
 ## Model Performance and Diagnostics
 - [Model Evaluation Metrics](modeling/01_model_evaluation_metrics.md)
