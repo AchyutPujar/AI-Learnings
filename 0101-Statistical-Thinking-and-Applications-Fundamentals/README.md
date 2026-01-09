@@ -24,10 +24,10 @@ This repository contains comprehensive study materials for Statistical Thinking 
 - [Type I and Type II Errors](02-Statistical-Inference/06_type_errors.md)
 
 ## Model Performance and Diagnostics
-- [Model Evaluation Metrics](modeling/01_model_evaluation_metrics.md)
-- [Linear Association Measures](modeling/02_linear_association.md)
-- [Classification Metrics](modeling/03_classification_metrics.md)
-- [Residuals and Error Analysis](modeling/04_residuals_error_analysis.md)
-- [False Positives and Negatives](modeling/05_false_positives_negatives.md)
+- [Model Evaluation Metrics](03-Model-Performance-and-Diagnostics/01_model_evaluation_metrics.md)
+- [Linear Association Measures](03-Model-Performance-and-Diagnostics/02_linear_association.md)
+- [Classification Metrics](03-Model-Performance-and-Diagnostics/03_classification_metrics.md)
+- [Residuals and Error Analysis](03-Model-Performance-and-Diagnostics/04_residuals_error_analysis.md)
+- [False Positives and Negatives](03-Model-Performance-and-Diagnostics/05_false_positives_negatives.md)
 
 Each topic includes theoretical explanations, mathematical formulas, Python code examples, and visualizations where applicable.
