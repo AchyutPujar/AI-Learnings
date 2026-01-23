@@ -4,10 +4,11 @@ This repository contains comprehensive study material for research students focu
 
 ## Table of Contents
 
-1. [Mastering LLM Concepts](./01-mastering-llm-concepts/)
-   - Explaining LLM Concepts
-   - Applying Prompt Engineering Strategies
-   - Explaining Retrieval-Augmented Generation (RAG) & AI Agents
+1. [Mastering LLM Concepts](./01-mastering-llm-concepts/) \
+   This section covers the foundational concepts of Large Language Models (LLMs), including how they work, how to customize them, and how to effectively use prompting strategies.
+   - [Explaining LLM Concepts](./01-mastering-llm-concepts/01-explaining-llm-concepts.md)
+   - [Applying Prompt Engineering Strategies](./01-mastering-llm-concepts/02-prompt-engineering-strategies.md)
+   - [Explaining Retrieval-Augmented Generation (RAG) & AI Agents](./01-mastering-llm-concepts/03-rag-and-ai-agents.md)
 
 2. [Developing & Managing LLM Workflows](./02-developing-managing-llm-workflows/)
    - Choosing the Right LLM Architecture for a Business Case
